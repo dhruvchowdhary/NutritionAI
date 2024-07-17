@@ -1,6 +1,7 @@
 # NutritionAI
-
+<img src="https://github.com/dhruvchowdhary/NutritionAI/main/NutritionAI.jpeg" width="170">
 NutritionAI was created during HackMIT 2023 with a 36-hour constraint. Contributors: Dhruv Chowdhary, Mridu Prashanth, Ashok Saravanan, and Amish Sethi.
+
 [https://devpost.com/software/remora-stay-hydrated](https://devpost.com/software/nutritional)
 
 ## Inspiration
