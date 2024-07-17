@@ -13,7 +13,7 @@ As a group of college students deeply invested in personal health, we empathize 
 <img src="https://github.com/dhruvchowdhary/NutritionAI/blob/main/assets/images/1721198941523-640bdb70-3cc6-47d6-9e43-328c4d59b9b6_2.jpg?raw=true" width="700">
 The app enables users to capture a photo of a food item, and in real-time, it provides precise information about its calorie and protein content.
 
-To achieve this, our app goes beyond simple image classification. It utilizes the user's photograph to determine both the identity (e.g., apple) and density of the food item. Additionally, it calculates the volume of the food. Using this data, the app combines the density information (calories/gram or protein/gram) with the estimated mass to deliver accurate calorie and protein estimates for the specific food item photographed!
+To achieve this, our app goes beyond simple image classification. It utilizes the user's photograph to determine both the identity (e.g., banana) and density of the food item. Additionally, it calculates the volume of the food. Using this data, the app combines the density information (calories/gram or protein/gram) with the estimated mass to deliver accurate calorie and protein estimates for the specific food item photographed!
 
 ## How we built it
 
